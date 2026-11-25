@@ -25,3 +25,8 @@ The desktop copy that prompted this project is a self-extracting archive contain
 - [Deezer Spleeter](https://github.com/deezer/spleeter), MIT-licensed source.
 - [SpleeterMsvcExe](https://github.com/wudicgi/SpleeterMsvcExe), MIT-licensed source.
 - [GMN Bot](https://github.com/frostmoon-rui/gmn_bot) has its own QQ adapter and SILK handling.
+
+## Project notes
+
+- [Spleeter Local project note](https://frostmoonrui.com/en/notes/spleeter-local/)
+- [QQ audio and background-job guide](https://github.com/frostmoon-rui/gmn_bot/blob/main/EXTENSIONS.md#audio-and-background-tasks)
